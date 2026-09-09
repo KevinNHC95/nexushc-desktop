@@ -1,6 +1,6 @@
 {
   "name": "nexushc-desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Coquille desktop NEXUS HC (Portail + navigation interne CRM/NOVA)",
   "main": "main.js",
   "scripts": {
